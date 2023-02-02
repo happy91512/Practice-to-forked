@@ -1,2 +1,2 @@
 print("hi Ted")
-print("fork")
+print("fork practice!")
